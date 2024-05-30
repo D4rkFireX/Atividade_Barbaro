@@ -1,2 +1,2 @@
 # Atividade_Barbaro
-Atividades de C# desenvolvidas.
+Atividades em C# desenvolvidas.
